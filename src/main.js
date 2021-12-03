@@ -21,6 +21,8 @@ import router from "./router";
 import Argon from "./plugins/argon-kit";
 import './registerServiceWorker'
 
+Vue.prototype.$downloadLink = "https://www.dropbox.com/s/j3itrmxn1gjmway/mathechnique-v1.0.0.apk?dl=0";
+
 Vue.config.productionTip = false;
 Vue.use(Argon);
 new Vue({

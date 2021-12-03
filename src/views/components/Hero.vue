@@ -27,9 +27,10 @@
                                 Components
                             </base-button> -->
                             <base-button tag="a"
-                                         href="https://www.creative-tim.com/product/vue-argon-design-system"
+                                         :href="$downloadLink"
                                          class="mb-3 mb-sm-0"
                                          type="white"
+                                         target="_blank"
                                          icon="ni ni-cloud-download-95">
                                 Download now!
                             </base-button>
