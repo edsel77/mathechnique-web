@@ -14,13 +14,14 @@
                     <h1 class="text-white font-weight-light">Bootstrap carousel</h1>
                     <p class="lead text-white mt-4">Argon Design System comes with four pre-built pages to help you get
                         started faster. You can change the text and images and you're good to go.</p>
-                    <a href="https://demos.creative-tim.com/argon-design-system/docs/components/alerts.html"
-                       class="btn btn-white mt-4">See all components</a>
+                    <!-- <a href="https://demos.creative-tim.com/argon-design-system/docs/components/alerts.html"
+                       class="btn btn-white mt-4">See all components</a> -->
                 </div>
                 <div class="col-lg-6 mb-lg-auto">
                     <div class="rounded shadow-lg overflow-hidden transform-perspective-right">
                         <b-carousel id="carousel1"
                                     controls
+                                    :interval="3000"
                                     indicators>
                             <!-- Text slides with image -->
                             <b-carousel-slide img-src="img/theme/img-1-1200x1000.jpg"></b-carousel-slide>

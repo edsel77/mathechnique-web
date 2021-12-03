@@ -8,7 +8,7 @@
                     </h2>
                     <p class="lead">Cause if you do, it can be yours for FREE. Hit the button below to navigate to Creative Tim where you can find the Design System in HTML. Start a new project or give an old Bootstrap project a new look!</p>
                     <div class="btn-wrapper">
-                        <a href="https://www.creative-tim.com/product/vue-argon-design-system" class="btn btn-primary mb-3 mb-sm-0">Download Vue</a>
+                        <a href="https://www.creative-tim.com/product/vue-argon-design-system" class="btn btn-primary mb-3 mb-sm-0">Download Now!</a>
                     </div>
                     <div class="text-center">
                         <h4 class="display-4 mb-5 mt-5">Available on these technologies</h4>

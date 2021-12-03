@@ -20,14 +20,14 @@
                         faster. You can change the text and images and you're good to go. More importantly, looking at
                         them will give you a picture of what you can built with this powerful Bootstrap 4 Design
                         System.</p>
-                    <div class="btn-wrapper">
+                    <!-- <div class="btn-wrapper">
                         <router-link to="/login" class="btn btn-success">
                             Login Page
                         </router-link>
                         <router-link to="/register" class="btn btn-success">
                             Register Page
                         </router-link>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="col-lg-5 mb-lg-auto">
                     <div class="transform-perspective-right">
