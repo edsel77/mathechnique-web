@@ -25,12 +25,12 @@
                     <h4 class="mb-0 font-weight-light">Let's get in touch on any of these platforms.</h4>
                 </div>
                 <div class="col-lg-6 text-lg-center btn-wrapper">
-                    <a target="_blank" rel="noopener" href="https://twitter.com/creativetim"
+                    <a target="_blank" rel="noopener" href="https://twitter.com/"
                        class="btn btn-neutral btn-icon-only btn-twitter btn-round btn-lg" data-toggle="tooltip"
                        data-original-title="Follow us">
                         <i class="fa fa-twitter"></i>
                     </a>
-                    <a target="_blank" rel="noopener" href="https://www.facebook.com/creativetim"
+                    <a target="_blank" rel="noopener" href="https://www.facebook.com/"
                        class="btn btn-neutral btn-icon-only btn-facebook btn-round btn-lg" data-toggle="tooltip"
                        data-original-title="Like us">
                         <i class="fa fa-facebook-square"></i>
@@ -52,7 +52,7 @@
                 <div class="col-md-6">
                     <div class="copyright">
                         &copy; {{year}}
-                        <a href="https://www.creative-tim.com" target="_blank" rel="noopener">MATHechnique</a>
+                        <a href="https://mathechnique.netlify.app/#/" target="_blank" rel="noopener">MATHechnique</a>
                     </div>
                 </div>
                 <!-- <div class="col-md-6">
