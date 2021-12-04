@@ -5,7 +5,7 @@
         <img
           src="mathechnique/logo-2-clear.png"
           alt="logo"
-          style="height: 70px;"
+          style="height: 55px;"
         />
       </router-link>
 
