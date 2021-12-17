@@ -55,24 +55,19 @@
                         <a href="https://mathechnique.netlify.app/#/" target="_blank" rel="noopener">MATHechnique</a>
                     </div>
                 </div>
-                <!-- <div class="col-md-6">
+                <div class="col-md-6">
                     <ul class="nav nav-footer justify-content-end">
                         <li class="nav-item">
-                            <a href="https://www.creative-tim.com" class="nav-link" target="_blank" rel="noopener">Creative Tim</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="https://www.creative-tim.com/presentation" class="nav-link" target="_blank" rel="noopener">About
-                                Us</a>
-                        </li>
-                        <li class="nav-item">
-                            <a href="http://blog.creative-tim.com" class="nav-link" target="_blank" rel="noopener">Blog</a>
+                            <router-link to="/privacy-policy" class="dropdown-item">
+                                <a>Privacy Policy</a>
+                            </router-link>
                         </li>
                         <li class="nav-item">
                             <a href="https://github.com/creativetimofficial/argon-design-system/blob/master/LICENSE.md"
-                               class="nav-link" target="_blank" rel="noopener">MIT License</a>
+                               class="nav-link" target="_blank" rel="noopener">Terms and Conditions</a>
                         </li>
                     </ul>
-                </div> -->
+                </div>
             </div>
         </div>
     </footer>
